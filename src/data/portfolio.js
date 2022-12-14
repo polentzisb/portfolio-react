@@ -29,4 +29,10 @@ export default [
     stack: ["Mongo", "Express", "React", "Node"],
     link: "https://github.com/polentzisb/react-clothly",
   },
+  {
+    title: "Portfolio",
+    imgUrl: "/portfolio.png",
+    stack: ["React", "Tailwind", "Vite", "Node"],
+    link: "https://github.com/polentzisb/portfolio-react",
+  },
 ];
