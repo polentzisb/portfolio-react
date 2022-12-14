@@ -32,7 +32,7 @@ export default [
   {
     title: "Portfolio",
     imgUrl: "/portfolio.png",
-    stack: ["React", "Tailwind", "Vite", "Node"],
+    stack: ["React", "Tailwind", "Vite"],
     link: "https://github.com/polentzisb/portfolio-react",
   },
 ];
