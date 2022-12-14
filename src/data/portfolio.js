@@ -20,7 +20,7 @@ export default [
   {
     title: "Restaurant Prototype",
     imgUrl: "/sushi.jpg",
-    stack: ["React", "Firebase"],
+    stack: ["React", "Firebase", "Bootstrap"],
     link: "https://github.com/polentzisb/react-restaurant",
   },
   {
