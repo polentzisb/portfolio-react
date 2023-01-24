@@ -7,14 +7,14 @@ export default [
   },
   {
     title: "CRUD List",
-    imgUrl: "/crud.png",
-    stack: ["HTML", "CSS", "Javascript"],
-    link: "https://github.com/polentzisb/CRUD-Project",
+    imgUrl: "/blog.png",
+    stack: ["React", "Node", "Express", "Mysql",],
+    link: "https://github.com/polentzisb/blog-food-Mysql",
   },
   {
     title: "API Chart",
     imgUrl: "/planetas.png",
-    stack: ["HTML", "Javascript", "ChartJS"],
+    stack: ["HTML", "Javascript", "ChartJS", "Axios"],
     link: "https://github.com/polentzisb/Projecto-API-ChartJS",
   },
   {
@@ -26,7 +26,7 @@ export default [
   {
     title: "Ecommerce MERN",
     imgUrl: "/clothly.png",
-    stack: ["Mongo", "Express", "React", "Node"],
+    stack: ["Mongo", "Express", "React", "Node", "Axios"],
     link: "https://github.com/polentzisb/react-clothly",
   },
   {
