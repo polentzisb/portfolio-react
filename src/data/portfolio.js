@@ -8,7 +8,7 @@ export default [
   {
     title: "API Chart",
     imgUrl: "/planetas.png",
-    stack: ["HTML", "Javascript", "ChartJS", "Axios"],
+    stack: ["HTML", "Javascript", "ChartJS"],
     link: "https://github.com/polentzisb/Projecto-API-ChartJS",
   },
   {
@@ -20,7 +20,7 @@ export default [
   {
     title: "Food-Blog",
     imgUrl: "/blog.png",
-    stack: ["React", "Node", "Express", "Mysql",],
+    stack: ["React", "Node", "Express", "Mysql", "Axios"],
     link: "https://github.com/polentzisb/blog-food-Mysql",
   },
   {
