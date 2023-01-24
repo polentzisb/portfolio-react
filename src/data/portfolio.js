@@ -6,7 +6,7 @@ export default [
     link: "https://github.com/polentzisb/ProjectoLanding",
   },
   {
-    title: "CRUD List",
+    title: "Food-Blog",
     imgUrl: "/blog.png",
     stack: ["React", "Node", "Express", "Mysql",],
     link: "https://github.com/polentzisb/blog-food-Mysql",
