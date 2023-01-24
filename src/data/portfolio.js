@@ -6,12 +6,6 @@ export default [
     link: "https://github.com/polentzisb/ProjectoLanding",
   },
   {
-    title: "Food-Blog",
-    imgUrl: "/blog.png",
-    stack: ["React", "Node", "Express", "Mysql",],
-    link: "https://github.com/polentzisb/blog-food-Mysql",
-  },
-  {
     title: "API Chart",
     imgUrl: "/planetas.png",
     stack: ["HTML", "Javascript", "ChartJS", "Axios"],
@@ -22,6 +16,12 @@ export default [
     imgUrl: "/sushi.jpg",
     stack: ["React", "Firebase", "Bootstrap"],
     link: "https://github.com/polentzisb/react-restaurant",
+  },
+  {
+    title: "Food-Blog",
+    imgUrl: "/blog.png",
+    stack: ["React", "Node", "Express", "Mysql",],
+    link: "https://github.com/polentzisb/blog-food-Mysql",
   },
   {
     title: "Ecommerce MERN",
