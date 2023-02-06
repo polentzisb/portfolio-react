@@ -10,7 +10,7 @@ function Intro() {
         {" "}
         Full Stack Web Developer
       </p>
-      <p className="text-sm max-w-xl mb-6 text-white">
+      <p className="text-sm md:text-xl mb-6 text-white">
         Soy Polentzi Saavedra, comencé en el desarrollo
         web de forma autodidacta a principios del 2021 como un hobby. Después de
         un tiempo quise darle un enfoque profesional y realice un Bootcamp
