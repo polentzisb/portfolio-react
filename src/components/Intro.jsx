@@ -17,7 +17,7 @@ function Intro() {
         enfocado en el stack MERN. Me apasiona escribir código y resolver
         problemas que simplifiquen la vida cotidiana. Me gusta trabajar en el
         Frontend para plasmar colores y formas distintivas.<br /> <br />
-        <p className="italic text-stone">Tecnologías: HTML-CSS-Javascript-Node-Express-MongoDB-React-Mysql-
+        <p className="text-base md:text-xl mb-3 font-medium text-stone">Tecnologías: HTML-CSS-Javascript-Node-Express-MongoDB-React-Mysql-
         Bootstrap-Git-Postman-Github-MaterialUI-Bulma-Tailwindcss-Vite-styled components</p>
 
       </p>
