@@ -11,16 +11,15 @@ function Intro() {
         Full Stack Web Developer
       </p>
       <p className="text-sm max-w-xl mb-6 text-white">
-        Hola mi nombre es Polentzi Saavedra, comencé mi camino en el desarrollo
+        Soy Polentzi Saavedra, comencé en el desarrollo
         web de forma autodidacta a principios del 2021 como un hobby. Después de
-        un tiempo quise darle un enfoque más profesional y realice un Bootcamp
+        un tiempo quise darle un enfoque profesional y realice un Bootcamp
         enfocado en el stack MERN. Me apasiona escribir código y resolver
-        problemas que simplifiquen la vida cotidiana. Me gusta trabajar en el
-        Frontend para plasmar colores y formas distintivas.
+        problemas que simplifiquen la vida.
         <br /> <br />
       </p>
       <p className="text-base md:text-xl mb-3 font-medium text-stone">
-        Tecnologías: HTML-CSS-Javascript-Node-Express-MongoDB-React-Mysql-
+        Tecnologías Conocidas: HTML-CSS-Javascript-Node-Express-MongoDB-React-Mysql-
         Bootstrap-Git-Postman-Github-MaterialUI-Bulma-Tailwindcss-Vite-styled
         components
       </p>
