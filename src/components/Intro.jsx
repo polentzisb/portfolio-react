@@ -6,7 +6,7 @@ function Intro() {
       <h1 className="text-4xl md:text-7xl text-white mb-1 md:mb-3 font-bold">
         Polentzi Saavedra
       </h1>
-      <p className="text-base md:text-xl mb-3 font-medium text-white">
+      <p className="text-base md:text-xl mb-3 font-medium text-stone">
         {" "}
         Full Stack Web Developer
       </p>
@@ -17,7 +17,7 @@ function Intro() {
         enfocado en el stack MERN. Me apasiona escribir código y resolver
         problemas que simplifiquen la vida cotidiana. Me gusta trabajar en el
         Frontend para plasmar colores y formas distintivas.<br /> <br />
-        <p className="italic">Tecnologías: HTML-CSS-Javascript-Node-Express-MongoDB-React-Mysql-
+        <p className="italic text-stone">Tecnologías: HTML-CSS-Javascript-Node-Express-MongoDB-React-Mysql-
         Bootstrap-Git-Postman-Github-MaterialUI-Bulma-Tailwindcss-Vite-styled components</p>
 
       </p>
